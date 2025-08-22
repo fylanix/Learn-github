@@ -49,4 +49,11 @@ print(b,'!=',3,'=',hasil)
 hasil = a != 3
 print(a,'!=',b,'=',hasil)
 
-
+# Operasi  sama dengan (==)
+print("===== OPERASI  SAMA DENGAN (==)")
+hasil = a == 3
+print(a,'==',3,'=',hasil)
+hasil = b == 3
+print(b,'==',3,'=',hasil)
+hasil = a == 3
+print(a,'==',b,'=',hasil)
